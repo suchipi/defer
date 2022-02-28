@@ -1,0 +1,28 @@
+{
+  "name": "@suchipi/defer",
+  "version": "1.0.0",
+  "description": "Inside-out promise; lets you call resolve and reject from outside the Promise constructor function.",
+  "main": "index.js",
+  "types": "defer.ts",
+  "keywords": [
+    "promise",
+    "resolve",
+    "reject",
+    "wrap",
+    "defer",
+    "deferred",
+    "inside",
+    "out",
+    "extract"
+  ],
+  "author": "Lily Scott <me@suchipi.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suchipi/defer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
